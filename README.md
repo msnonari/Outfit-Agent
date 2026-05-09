@@ -39,5 +39,5 @@ It works by:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/weather-outfit-agent.git
+git clone https://github.com/msnonari/Outfit-Agent.git
 cd weather-outfit-agent
